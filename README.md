@@ -16,4 +16,4 @@ The dataset used in this project is uploaded as `insurance.csv` in this reposito
 2. Open the Jupyter notebook in Google Colab.
 3. Follow the instructions in the notebook to upload the CSV file and run the analysis.
 
-[View Notebook in Google Colab](<link-to-your-notebook>)
+[View Notebook in Google Colab](<https://colab.research.google.com/github/haniJ2000/Insurance-Data-Analysis-Using-ML/blob/main/Insurance.ipynb>)
